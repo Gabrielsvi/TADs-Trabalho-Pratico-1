@@ -1,0 +1,7 @@
+C:\Users\svizz\LocadoraApi\LocadoraApi\obj\Debug\net8.0\LocadoraApi.csproj.AssemblyReference.cache
+C:\Users\svizz\LocadoraApi\LocadoraApi\obj\Debug\net8.0\LocadoraApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svizz\LocadoraApi\LocadoraApi\obj\Debug\net8.0\LocadoraApi.AssemblyInfoInputs.cache
+C:\Users\svizz\LocadoraApi\LocadoraApi\obj\Debug\net8.0\LocadoraApi.AssemblyInfo.cs
+C:\Users\svizz\LocadoraApi\LocadoraApi\obj\Debug\net8.0\LocadoraApi.csproj.CoreCompileInputs.cache
+C:\Users\svizz\LocadoraApi\LocadoraApi\obj\Debug\net8.0\LocadoraApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\svizz\LocadoraApi\LocadoraApi\obj\Debug\net8.0\LocadoraApi.MvcApplicationPartsAssemblyInfo.cache
