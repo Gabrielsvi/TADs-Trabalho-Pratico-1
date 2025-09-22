@@ -1,0 +1,6 @@
+@LocadoraApi_HostAddress = http://localhost:5108
+
+GET {{LocadoraApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
