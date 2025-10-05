@@ -64,7 +64,6 @@ namespace LocadoraVeiculos.Controller
             return NoContent();
         }
 
-        // 🔎 Filtro: alugueis ativos (sem devolução)
         [HttpGet("ativos")]
         public async Task<IActionResult> GetAtivos()
         {
